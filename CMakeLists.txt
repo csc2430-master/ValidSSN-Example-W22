@@ -3,4 +3,4 @@ project(ValidSSN)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ValidSSN main.cpp)
+add_executable(ValidSSN main.cpp IsValidLine.cpp)
